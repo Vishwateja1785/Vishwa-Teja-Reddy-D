@@ -49,14 +49,8 @@
   <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS EC2" width="40" height="40"/> 
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://www.nicepng.com/maxp/u2y3w7r5a9y3i1r5/" alt="Excel" width="40" height="40"/> 
-  </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.nicepng.com/maxp/u2q8i1o0a9y3r5y3/" alt="Tableau" width="40" height="40"/> 
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
@@ -64,17 +58,11 @@
   <a href="https://www.sas.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="SAS" width="40" height="40"/> 
   </a>
-  <a href="https://www.putty.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.behance.net/gallery/70251739/PuTTY-svg-logo" alt="Putty" width="40" height="40"/> 
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/> 
-  </a>
-  <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/SPSS_logo.svg" alt="SPSS" width="40" height="40"/> 
   </a>
   <a href="https://www.informatica.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/informatica/informatica-icon.svg" alt="Informatica Power Center" width="40" height="40"/> 
