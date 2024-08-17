@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishwa Teja Reddy Dontireddy</h1>
 <h3 align="center">I am a dedicated data science student, proficient in leveraging analytical tools for data-driven decision-making along with a strong focus on innovation and problem-solving. I aspire to utilize my skills to solve complex real-life challenges while gaining new skills in the process.</h3>
-<!-- <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"> -->
+<img align="right" alt="Data Analytics" width="400" src="https://static.wixstatic.com/media/c7f13e_eca8b5e5b362419ba44efe48d2b36535~mv2.gif">
 
 
 - 👨‍🎓 I’m doing my Masters in **Data Science** at DePaul University.
@@ -15,7 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vishwa-teja-reddy-b199a4192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishwa-teja-reddy-b199a4192/"height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vishwa-teja-reddy-b199a4192/" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Vishwa Teja Reddy D" width="40" height="40"/>
+  </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
