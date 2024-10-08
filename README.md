@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwa Teja Reddy Dontireddy</h1>
-<h3 align="center">I am a dedicated data science student, proficient in leveraging analytical tools for data-driven decision-making along with a strong focus on innovation and problem-solving. I aspire to utilize my skills to solve complex real-life challenges while gaining new skills in the process.</h3>
+<h3 align="center">I am a Data Science professional with 2 years of experience developing AI algorithms, deploying machine learning models and creating visualizations to optimize processes, drive data-driven decision-making and deliver valuable insights that solve business problems and improve business processes.</h3>
 <img align="right" alt="Data Analytics" width="400" src="https://static.wixstatic.com/media/c7f13e_eca8b5e5b362419ba44efe48d2b36535~mv2.gif">
 
 
