@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishwa Teja Reddy Dontireddy</h1>
-<h3 align="center">I am a Data Science professional with 2 years of experience developing AI algorithms, deploying machine learning models and creating visualizations to optimize processes, drive data-driven decision-making and deliver valuable insights that solve business problems and improve business processes.</h3>
+<h3 align="center">I am a  Data Analyst with 2 years of experience in performing statistical analysis, building machine learning models, and extracting actionable insights to drive data-driven decisions that solve business problems and improve business processes.</h3>
 <img align="right" alt="Data Analytics" width="400" src="https://static.wixstatic.com/media/c7f13e_eca8b5e5b362419ba44efe48d2b36535~mv2.gif">
 
 
-- 👨‍🎓 I’m doing my Masters in **Data Science** at DePaul University.
+- 👨‍🎓 Masters in **Data Science** from DePaul University.
 
-- 🌱 Interested in **Data Analytics, Generative AI, Machine Learning, Deep Learning, Descriptive & Inferential Statistics, NLP and Time-Series Forecasting**.
+- 🌱 Interested in **Data Analytics, Generative AI, Machine Learning, Deep Learning, Descriptive & Inferential Statistics, NLP, Time-Series Forecasting and Computer Vision**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vishwateja1785]
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/vishwa-teja-reddy-b199a4192/" target="blank">
+  <a href="https://www.linkedin.com/in/Vishwa1785/" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Vishwa Teja Reddy D" width="40" height="40"/>
   </a>
 
